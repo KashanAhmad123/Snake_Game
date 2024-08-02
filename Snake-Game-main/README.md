@@ -1,2 +1,3 @@
 # Snake-Game
-HTML,CSS,JAVASCRIPT
+FrontEnd- HTML,CSS
+BackEnd-JavaScript
